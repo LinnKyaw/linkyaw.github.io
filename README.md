@@ -1,11 +1,11 @@
 # Game Developer
 
-### Education
-University of Technology Sydney - Ultimo, NSW
-Bacherlor of Science in Games Development (March 2021 - December 2023)
-Major: Games Development (Game Design Studio, Advance Games Programming)
+## Education
+###University of Technology Sydney - Ultimo, NSW
+###Bacherlor of Science in Games Development (March 2021 - December 2023)
+-Major: Games Development (Game Design Studio, Advance Games Programming)
        Information Technology (Application Programming, Web Systems, Advanced Interaction Design)
-Sub-major: Marketing Principles (International Marketing, B2B Marketing, Service Marketing)
+-Sub-major: Marketing Principles (International Marketing, B2B Marketing, Service Marketing)
 
 ### Work Experience
 SunShipTechnologies (December 2023 - June 2024)
