@@ -35,6 +35,6 @@
 - HTML/CSS
 
 ### IDEs
--Unity
--Unreal Engine
--Visual Studio Code
+- Unity
+- Unreal Engine
+- Visual Studio Code
