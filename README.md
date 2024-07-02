@@ -27,14 +27,14 @@
 - Project Documentation
 - https://qioqvi.itch.io/caterpillar-rig
 
-## Programming Stuff
-**Languages**
+## Programming
+### Languages
 - C#
 - C++
 - Java / JavaScript
 - HTML/CSS
 
-**IDEs**
+### IDEs
 -Unity
 -Unreal Engine
 -Visual Studio Code
